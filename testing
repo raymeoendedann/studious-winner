@@ -1,6 +1,6 @@
 #bash
-mkdir xnxx
-cd xnxx
+mkdir studious-winner
+cd studious-winner
 cat > appsettings.json << EOF
 {
   "Settings": {
